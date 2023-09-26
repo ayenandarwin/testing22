@@ -1,0 +1,6 @@
+package com.aptm.ethicaldigit
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

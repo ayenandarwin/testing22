@@ -1,0 +1,12 @@
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-annotation-experimental-1.1.0-0 /Users/user/.gradle/caches/transforms-3/3795200b4ef80330da39fee63b1e3f99/transformed/jetified-annotation-experimental-1.1.0/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-java-1.0.0-beta04-1 /Users/user/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-core-1.6.0-2 /Users/user/.gradle/caches/transforms-3/ae42e6c01585f28a5adeac7499fca147/transformed/core-1.6.0/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-jetified-window-1.0.0-beta04-3 /Users/user/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-main-4 /Users/user/.pub-cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-20.4.54/android/src/main/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-release-5 /Users/user/.pub-cache/hosted/pub.dev/syncfusion_flutter_pdfviewer-20.4.54/android/src/release/res
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-pngs-6 /Users/user/Documents/Project/aptm-mobile/build/syncfusion_flutter_pdfviewer/generated/res/pngs/release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-resValues-7 /Users/user/Documents/Project/aptm-mobile/build/syncfusion_flutter_pdfviewer/generated/res/resValues/release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-rs-8 /Users/user/Documents/Project/aptm-mobile/build/syncfusion_flutter_pdfviewer/generated/res/rs/release
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-9 /Users/user/Documents/Project/aptm-mobile/build/syncfusion_flutter_pdfviewer/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-mergeReleaseResources-10 /Users/user/Documents/Project/aptm-mobile/build/syncfusion_flutter_pdfviewer/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.syncfusion.flutter.pdfviewer.syncfusion_flutter_pdfviewer-merged_res-11 /Users/user/Documents/Project/aptm-mobile/build/syncfusion_flutter_pdfviewer/intermediates/merged_res/release

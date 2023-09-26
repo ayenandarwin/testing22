@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aptm</string>
+    <string name="facebook_app_id">245120608194824</string>
+    <string name="facebook_client_token">cf2c61188ec3d23dfb73f7eeb51e4348</string>
+    <string name="fb_login_protocol_scheme">fb245120608194824</string>
+</resources>

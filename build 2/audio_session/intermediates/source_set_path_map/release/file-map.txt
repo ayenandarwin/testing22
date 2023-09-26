@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-0 /Users/user/.gradle/caches/transforms-3/3795200b4ef80330da39fee63b1e3f99/transformed/jetified-annotation-experimental-1.1.0/res
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-1 /Users/user/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/res
+com.ryanheise.audio_session-media-1.4.1-2 /Users/user/.gradle/caches/transforms-3/8894f09c410fba14702b7c095b3c0077/transformed/media-1.4.1/res
+com.ryanheise.audio_session-jetified-media2-session-1.2.0-3 /Users/user/.gradle/caches/transforms-3/8ae16a8eaf9ccf489f973510344fad99/transformed/jetified-media2-session-1.2.0/res
+com.ryanheise.audio_session-core-1.6.0-4 /Users/user/.gradle/caches/transforms-3/ae42e6c01585f28a5adeac7499fca147/transformed/core-1.6.0/res
+com.ryanheise.audio_session-jetified-media2-common-1.2.0-5 /Users/user/.gradle/caches/transforms-3/b1631d0e9582460644863cd7c04a4ebc/transformed/jetified-media2-common-1.2.0/res
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-6 /Users/user/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/res
+com.ryanheise.audio_session-main-7 /Users/user/.pub-cache/hosted/pub.dev/audio_session-0.1.13/android/src/main/res
+com.ryanheise.audio_session-release-8 /Users/user/.pub-cache/hosted/pub.dev/audio_session-0.1.13/android/src/release/res
+com.ryanheise.audio_session-pngs-9 /Users/user/Documents/Project/aptm-mobile/build/audio_session/generated/res/pngs/release
+com.ryanheise.audio_session-resValues-10 /Users/user/Documents/Project/aptm-mobile/build/audio_session/generated/res/resValues/release
+com.ryanheise.audio_session-rs-11 /Users/user/Documents/Project/aptm-mobile/build/audio_session/generated/res/rs/release
+com.ryanheise.audio_session-mergeReleaseResources-12 /Users/user/Documents/Project/aptm-mobile/build/audio_session/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 /Users/user/Documents/Project/aptm-mobile/build/audio_session/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ryanheise.audio_session-merged_res-14 /Users/user/Documents/Project/aptm-mobile/build/audio_session/intermediates/merged_res/release

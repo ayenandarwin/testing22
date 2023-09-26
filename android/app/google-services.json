@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "779487278709",
+    "firebase_url": "https://aptm-e363c-default-rtdb.firebaseio.com",
+    "project_id": "aptm-e363c",
+    "storage_bucket": "aptm-e363c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779487278709:android:0d6ea2727413afec24aa3c",
+        "android_client_info": {
+          "package_name": "com.mypages.ethicaldigit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779487278709-4vrg2hb9dqr1lhf84boluq9ubi6nd6rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mypages.ethicaldigit",
+            "certificate_hash": "6e611d668c8d17fceefcc676ec05244913d9f1be"
+          }
+        },
+        {
+          "client_id": "779487278709-mgpnnngmcec7ntrop8b6ed6h4ucbqp9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27ii57Idi9XZS9UqqKGX8Ef4PtwFBF40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779487278709-mgpnnngmcec7ntrop8b6ed6h4ucbqp9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779487278709-ndbc03g9euvsrk6vq13570jpg0uffl4l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aptm.ethicaldigit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
